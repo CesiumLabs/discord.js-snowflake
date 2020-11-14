@@ -1,0 +1,19 @@
+{
+	"name": "discord.js-snowflake",
+	"version": "1.0.0",
+	"description": "Simple Discord.js framework",
+	"main": "index.js",
+	"scripts": {
+		"test": "cd test && node index.js"
+	},
+	"repository": "https://github.com/DevSnowflake/discord.js-snowflake",
+	"author": "Snowflake107",
+	"license": "GPL-3.0",
+	"private": false,
+  	"dependencies": {
+		"discord.js": "^12.4.1"
+	},
+	"devDependencies": {
+		"dotenv": "^8.2.0"
+	}
+}
