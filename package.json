@@ -1,6 +1,6 @@
 {
 	"name": "discord.js-snowflake",
-	"version": "1.0.0",
+	"version": "1.0.0-dev",
 	"description": "Simple Discord.js framework",
 	"main": "index.js",
 	"scripts": {
